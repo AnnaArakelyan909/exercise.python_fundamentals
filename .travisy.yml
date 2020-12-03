@@ -1,1 +1,3 @@
 languag: python
+script:
+-pytest
