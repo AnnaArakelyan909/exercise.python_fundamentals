@@ -1,4 +1,5 @@
 # Created by Leon Hunter at 3:57 PM 10/23/2020
+# Adding comment to have changes in the file to create pull request
 class StringManipulator(object):
     def get_hello_world(self):
         return "Hello World" # TODO - Implement solution
