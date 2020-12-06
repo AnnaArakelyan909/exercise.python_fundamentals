@@ -1,5 +1,5 @@
 # Created by Leon Hunter at 3:56 PM 10/23/2020
-# Adding comment to have changes in the file to create pull request
+
 class Predicator(object):
     def is_greater_than_5(self, some_value):
         if some_value > 5:
