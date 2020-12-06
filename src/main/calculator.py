@@ -1,7 +1,7 @@
 # Created by Leon Hunter at 9:54 AM 10/23/2020
 class Calculator(object):
     def add(self, a, b):
-        return a + d # TODO - Implement solution
+        return a + b # TODO - Implement solution
 
     def subtract(self, a, b):
         return a - b # TODO - Implement solution
@@ -10,4 +10,4 @@ class Calculator(object):
         return a * b # TODO - Implement solution
 
     def divide(self, a, b):
-        return a / b # TODO - Implement solution
+        return round((a/b), 3)# TODO - Implement solution
